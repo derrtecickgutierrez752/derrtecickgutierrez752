@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm derrtecickgutierrez752
 
-<!--
-**derrtecickgutierrez752/derrtecickgutierrez752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 🎱 🎨 🏒 A lover of system programming 🎯 🎱 🎨 🏒
 
-Here are some ideas to get you started:
+## About Me
+🏒 🛹 🚀 🥋 Exploring the world of tech reviews 🏒 🛹 🚀 🥋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎧 🎱 🏓 Passionate about project management 🎧 🎱 🏓
+
+### Fun Facts
+🥋 💻 🎾 Enthusiastic about databases 🥋 💻 🎾
+
+---
+✨ 🚀 🏓 🎨 🎽 Thanks for visiting my profile! 🛹 🛶 🎨 🎮 🎰
